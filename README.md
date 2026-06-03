@@ -48,6 +48,9 @@ Below is proposed projects that we can work on, feel free to add to this list if
     *   Isolating the subtle electromagnetic footprints (TEMPEST) leaked by internal clock oscillators, circuit traces, and display logic boards.
     *   Algorithmic filtering to isolate device footprints from baseline environmental RF noise.
 
+### 6. Radio Absorbers and Radio-Blocking Research
+* Research on Household-Item-Development of RF-absorbing and RF-Blocking materials
+
 ---
 
 ## Platform Compliance & Dual-Use Statement
