@@ -49,7 +49,7 @@ Below is proposed projects that we can work on, feel free to add to this list if
     *   Algorithmic filtering to isolate device footprints from baseline environmental RF noise.
 
 ### 6. Radio Absorbers and Radio-Blocking Research
-* Research on Household-Item-Development of RF-absorbing and RF-Blocking materials
+* Research on Development of RF-absorbing and RF-Blocking materials with household/readily available items
 
 ---
 
