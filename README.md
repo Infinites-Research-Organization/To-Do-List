@@ -8,7 +8,7 @@ This repository serves as the centralized development roadmap and project tracke
 
 Below is proposed projects that we can work on, feel free to add to this list if you're a member
 
-### 1. Camera Detection & Network Auditing
+### 1. Camera Detection & Network Auditing (Actively Being worked on)
 *   **Project Name:** `cam-detect-cli`
 *   **Core Objective:** Develop a terminal-based passive network utility to detect Wi-Fi-enabled surveillance hardware.
 *   **Technical Specifications:**
@@ -16,7 +16,7 @@ Below is proposed projects that we can work on, feel free to add to this list if
     *   Hardware fingerprinting via MAC address OUI analysis and broadcast parsing (mDNS/uPnP).
     *   **Interoperability:** Native export functionality to standard `.pcap` files and structured telemetry feeds optimized for direct integration with **Kismet** and **Wireshark**.
 
-### 2. Edge-Optimized Multi-Modal Drone Detection
+### 2. Edge-Optimized Multi-Modal Drone Detection (Actively Being worked on, model architecture is done, debugging phase)
 *   **Project Name:** `uas-edge-vision-audio`
 *   **Core Objective:** Build low-latency, early-warning classification models for commercial Unmanned Aerial Systems (UAS).
 *   **Technical Specifications:**
