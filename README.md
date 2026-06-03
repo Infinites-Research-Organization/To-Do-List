@@ -50,7 +50,7 @@ Below is proposed projects that we can work on, feel free to add to this list if
 
 ---
 
-## ⚖️ Platform Compliance & Dual-Use Statement
+## Platform Compliance & Dual-Use Statement
 
 All projects hosted under this framework adhere strictly to **GitHub’s Acceptable Use and Active Malware or Exploits Policies**. 
 
