@@ -10,7 +10,7 @@ Below is proposed projects that we can work on, feel free to add to this list if
 
 ### 1. Camera Detection & Network Auditing
 *   **Project Name:** `cam-detect-cli`
-*   **Core Objective:** Develop a terminal-based passive network utility to detect local Wi-Fi-enabled surveillance hardware.
+*   **Core Objective:** Develop a terminal-based passive network utility to detect Wi-Fi-enabled surveillance hardware.
 *   **Technical Specifications:**
     *   Passive Wi-Fi frame analysis in monitor mode to identify anomalous, high-bandwidth streaming signatures.
     *   Hardware fingerprinting via MAC address OUI analysis and broadcast parsing (mDNS/uPnP).
