@@ -55,5 +55,5 @@ Below is proposed projects that we can work on, feel free to add to this list if
 All projects hosted under this framework adhere strictly to **GitHub’s Acceptable Use and Active Malware or Exploits Policies**. 
 
 *   **Passive Architecture by Design:** Our software focus remains exclusively on **receive-only** signal processing, physical material modeling, local computer vision, and defensive data perturbation. 
-*   **No Active Exploitation or Disruption:** None of the utilities listed in this roadmap contain code designed to inject malicious packets, execute denial-of-service (DoS) attacks, flood public spectrums, or jam/disrupt active network or hardware infrastructure. 
+*   **No Active Exploitation or Disruption:** None of the utilities listed in this roadmap contain code designed to inject malicious packets, execute denial-of-service (DoS) attacks, flood public spectrums, or jam/disrupt active network or hardware infrastructure.
 *   **Educational Purpose:** These tools are built to empower individuals, privacy advocates, and security auditors to verify the physical and digital boundaries of their own environments.
