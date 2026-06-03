@@ -1,4 +1,4 @@
-# Open-Source Privacy & Defense Engineering: Project Roadmap
+# Open-Source Privacy & Defense Engineering Project List
 
 This repository serves as the centralized development roadmap and project tracker for the **Infinites Research Organization**. Our objective is to design, audit, and open-source non-destructive, passive, and privacy-preserving technologies that enhance individual sovereignty and situational awareness.
 
