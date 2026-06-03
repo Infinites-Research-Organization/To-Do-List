@@ -4,9 +4,9 @@ This repository serves as the centralized development roadmap and project tracke
 
 ---
 
-## 📋 Research & Development Pipeline
+## Research & Development
 
-Below is the active engineering matrix for upcoming repositories, utilities, and datasets.
+Below is proposed projects that we can work on, feel free to add to this list if you're a member
 
 ### 1. Camera Detection & Network Auditing
 *   **Project Name:** `cam-detect-cli`
