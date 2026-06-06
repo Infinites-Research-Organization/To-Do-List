@@ -51,6 +51,11 @@ Below is proposed projects that we can work on, feel free to add to this list if
 ### 6. Radio Absorbers and Radio-Blocking Research
 * Research on Development of RF-absorbing and RF-Blocking materials with household/readily available items
 
+### 7. Radio-Tokenizer for Machine Learning (Active Research as of 6/6/2026)
+* Radio ML Frameworks for Radio Technology Attention-Based Research
+
+### 8. Cloud-Height Inference from Cheap Sensors (10,000 Feet +)
+* Using an SDR on unlicensed/free-to-use bands or similar devices to measure cloud height on weather sensors
 ---
 
 ## Platform Compliance & Dual-Use Statement
