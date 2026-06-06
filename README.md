@@ -56,6 +56,7 @@ Below is proposed projects that we can work on, feel free to add to this list if
 
 ### 8. Cloud-Height Inference from Cheap Sensors (10,000 Feet +)
 * Using an SDR on unlicensed/free-to-use bands or similar devices to measure cloud height on weather sensors
+
 ---
 
 ## Platform Compliance & Dual-Use Statement
