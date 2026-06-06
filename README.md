@@ -49,10 +49,12 @@ Below is proposed projects that we can work on, feel free to add to this list if
     *   Algorithmic filtering to isolate device footprints from baseline environmental RF noise.
 
 ### 6. Radio Absorbers and Radio-Blocking Research
+*   **Project Name:** `rf-material-research`
 * Research on Development of RF-absorbing and RF-Blocking materials with household/readily available items
 
 ### 7. Radio-Tokenizer for Machine Learning (Active Research as of 6/6/2026)
-* Radio ML Frameworks for Radio Technology Attention-Based Research
+*   **Project Name:** `rf-tokenizer`
+* Radio ML Python Framework for Radio Technology Attention-Based Research written in python and C++ with a pytorch backend
 
 ### 8. Cloud-Height Inference from Cheap Sensors (10,000 Feet +)
 * Using an SDR on unlicensed/free-to-use bands or similar devices to measure cloud height on weather sensors
